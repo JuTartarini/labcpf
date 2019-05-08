@@ -1,0 +1,25 @@
+{
+  "name": "labcpf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuTartarini/Lab-CPF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuTartarini/Lab-CPF/issues"
+  },
+  "homepage": "https://github.com/JuTartarini/Lab-CPF#readme",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.0"
+  }
+}
