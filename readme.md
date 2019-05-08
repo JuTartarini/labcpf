@@ -16,9 +16,9 @@ $  npm install labcpf
 Exemplo:
 
 ```node
-const cpfValidator = require('labcpf');
+const cpfValidator = require("labcpf");
 
-console.log(cpfValidator('10695297619'));
+console.log(cpfValidator("10695297619"));
 // return true
 
 console.log(cpfValidator("106.952.976-19"));
